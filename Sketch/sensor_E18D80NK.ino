@@ -50,7 +50,7 @@ class MyServerCallbacks: public BLEServerCallbacks {
 void setup() {
   
   // Inicializa BLE
-  BLEDevice::init("jogoBotao");
+  BLEDevice::init("ESP32_BLE");
   pServer = BLEDevice::createServer();
   pServer->setCallbacks(new MyServerCallbacks());
 
@@ -66,7 +66,7 @@ void setup() {
 
   pService->start();
 
-  // Inicia advertising
+  // Inicializa advertising
   BLEAdvertising *pAdvertising = BLEDevice::getAdvertising();
   pAdvertising->addServiceUUID(SERVICE_UUID);
   pAdvertising->setScanResponse(true);
