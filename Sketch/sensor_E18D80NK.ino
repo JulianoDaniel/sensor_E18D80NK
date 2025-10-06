@@ -5,7 +5,7 @@
  *      https://github.com/julianodaniel
  *  Função do Software: 
  *      Demonstrativo do sensor modelo E18-D80NK interagindo com Esp32 e módulo PC817 opto 
- *	onde é enviada uma mensagem por Bluetooth BLE em qual porta foi detectado um objeto. 
+ *	     onde é enviada uma mensagem 'porta1' ou 'porta2' por Bluetooth BLE em qual pino foi detectado um objeto. 
  *  Ano: 
  *      2025
  *  Versão: 
