@@ -1,4 +1,4 @@
-# Sensor E18-D80NK com ESP32 e Comunicação Bluetooth BLE
+# Sensor E18-D80NK com ESP32 Bluetooth BLE
 
 ## Descrição do Projeto
 Este projeto implementa uma aplicação utilizando o **sensor infravermelho E18-D80NK** conectado a um **ESP32** através de um **módulo optoacoplador PC817**.  
