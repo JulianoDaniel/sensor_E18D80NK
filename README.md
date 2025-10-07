@@ -52,10 +52,6 @@ A aplicação pode interagir com **qualquer dispositivo compatível com Bluetoot
 
 ## 🪪 Licença
 
-Este projeto está licenciado sob a [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-[![Licença: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
 Este projeto está licenciado sob a   
 **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
 
