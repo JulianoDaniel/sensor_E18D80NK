@@ -10,7 +10,7 @@
  *      2025
  *  Versão: 
  *      1.0 
- *  
+ *  Licença: CC BY 4.0
  */
  
 #include <BLEDevice.h>
