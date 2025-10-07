@@ -22,8 +22,8 @@ A aplicação pode interagir com **qualquer dispositivo compatível com Bluetoot
 |----------------------|------------------------------------------------|
 | ESP32                | Microcontrolador principal com suporte a BLE   |        |
 | Sensor E18-D80NK     | Detecção de objetos por infravermelho          |
-| Optoacoplador PC817  | Isolamento elétrico entre o sensor e o ESP32   |
-| Resistores           | Ajuste de corrente e polarização dos circuitos |
+| Módulo Opto PC817    | Isolamento elétrico entre o sensor e o ESP32   |
+| Resistores 1k e 10k  | Ajuste de corrente e polarização dos circuitos |
 | Jumpers e Protoboard | Conexões e montagem experimental               |
 
 ---
